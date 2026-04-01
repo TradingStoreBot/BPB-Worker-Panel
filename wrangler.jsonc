@@ -9,7 +9,7 @@
     },
     "kv_namespaces": [
         {
-            "binding": "bpb",
+            "binding": "kv",
             "id": "ea3fe5ff747544e18a98454b0f2a17dc"
         }
     ]
