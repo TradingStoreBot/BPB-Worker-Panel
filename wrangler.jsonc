@@ -2,6 +2,11 @@
     "name": "bpb-worker-panel",
     "main": "dist/worker.js",
     "compatibility_date": "2026-04-01",
+    "vars": {
+        "UUID": "a84c6c69-3f5e-45d3-a8bf-03c9681993a1",
+        "PROXYIP": "cdn-b100.xn--b6gac.eu.org",
+        "TR_PASS": "a84c6c69-3f5e-45d3-a8bf-03c9681993a1"
+    },
     "kv_namespaces": [
         {
             "binding": "bpb",
